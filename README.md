@@ -276,12 +276,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Build and Package
 
-* [alire](https://github.com/alire-project/alire) ⭐ 371 | 🐛 355 | 🌐 Ada | 📅 2026-02-28 - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+* [alire](https://github.com/alire-project/alire) ⭐ 371 | 🐛 354 | 🌐 Ada | 📅 2026-03-13 - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 * [synth](https://github.com/jrmarino/synth) ⭐ 267 | 🐛 11 | 🌐 Ada | 📅 2026-02-14 - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 * [gprbuild](https://github.com/AdaCore/gprbuild) ⭐ 79 | 🐛 37 | 🌐 Ada | 📅 2026-01-22 - Adacore multi-language software build tool.
 * [aura](https://github.com/annexi-strayline/AURA) ⭐ 24 | 🐛 11 | 🌐 Ada | 📅 2025-07-16 - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
 * [ravenadm](https://github.com/jrmarino/ravenadm) ⭐ 21 | 🐛 11 | 🌐 Ada | 📅 2026-02-27 - Administration tool for Ravenports <http://www.ravenports.com>.
-* [tada](https://github.com/tomekw/tada) ⭐ 19 | 🐛 0 | 🌐 Ada | 📅 2026-03-11 - An opinionated package management tool for Ada.
+* [tada](https://github.com/tomekw/tada) ⭐ 19 | 🐛 0 | 🌐 Ada | 📅 2026-03-12 - An opinionated package management tool for Ada.
 * [alr2appimage](https://github.com/mgrojo/alr2appimage) ⭐ 13 | 🐛 0 | 🌐 Ada | 📅 2025-08-07 - A tool for automatically creating an AppImage executable from an Alire crate.
 * [cmake-ada-offa](https://github.com/offa/cmake-ada) ⭐ 12 | 🐛 1 | 📅 2014-11-12 - Ada language support for CMake.
 * [ada4cmake](https://github.com/mosteo/ada4cmake) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2020-09-14 - CMake macros for simple gnat project inclusion.
@@ -322,7 +322,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 448 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 31,495 | 🐛 8 | 🌐 C | 📅 2026-03-10).
+* [eepers](https://github.com/tsoding/eepers) ⭐ 448 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 31,509 | 🐛 5 | 🌐 C | 📅 2026-03-12).
 * [steamsky](https://github.com/thindil/steamsky) ⭐ 101 | 🐛 2 | 🌐 Nim | 📅 2026-03-12 - Roguelike in sky with a steampunk setting.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 23 | 🐛 0 | 🌐 Ada | 📅 2026-02-11 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 * [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 21 | 🐛 1 | 🌐 Ada | 📅 2026-03-05 - Civilization-style turn-based strategy game. Requires [asfml].
@@ -398,7 +398,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 <!--lint disable awesome-spell-check-->
 
-* [aws](https://github.com/AdaCore/aws) ⭐ 152 | 🐛 36 | 🌐 Ada | 📅 2026-01-27 - Ada Web Server is a complete framework to develop Web based applications in Ada.
+* [aws](https://github.com/AdaCore/aws) ⭐ 152 | 🐛 36 | 🌐 Ada | 📅 2026-03-12 - Ada Web Server is a complete framework to develop Web based applications in Ada.
 
 <!--lint enable awesome-list-item-->
 
@@ -417,7 +417,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Unit Test, Testing
 
-* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 18 | 🐛 5 | 🌐 Ada | 📅 2026-03-10 - Simple tool to black box check the behavior of an executable through the command line.
+* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 18 | 🐛 5 | 🌐 Ada | 📅 2026-03-12 - Simple tool to black box check the behavior of an executable through the command line.
 * [aunit](https://github.com/AdaCore/aunit) ⭐ 11 | 🐛 17 | 🌐 Ada | 📅 2026-03-10 - Ada unit testing framework.
 * [gnatbdd](https://github.com/briot/gnatbdd) ⭐ 7 | 🐛 2 | 🌐 Ada | 📅 2021-10-25 - Behavior Driven Development in Ada.
 * [scripted-testing](https://github.com/simonjwright/scripted_testing) ⭐ 2 | 🐛 0 | 🌐 Ada | 📅 2023-04-25 - Supports functional testing using Tcl scripts.
@@ -450,8 +450,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Verification
 
-* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 297 | 🐛 4 | 🌐 Ada | 📅 2026-03-11 - SPARK formal verification toolset.
-* [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 46 | 🐛 5 | 🌐 Ada | 📅 2026-03-12 - GNATcoverage is a tool to analyze and report program coverage.
+* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 297 | 🐛 4 | 🌐 Ada | 📅 2026-03-13 - SPARK formal verification toolset.
+* [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 46 | 🐛 5 | 🌐 Ada | 📅 2026-03-13 - GNATcoverage is a tool to analyze and report program coverage.
 * [acats](https://github.com/simonjwright/ACATS) ⭐ 12 | 🐛 0 | 🌐 Ada | 📅 2024-08-01 - The Ada Conformity Assessment Test Suite, customised for GCC.
 * [acats-grading](https://github.com/simonjwright/ACATS-grading) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2024-05-17 - Tools for grading ACATS results, modified for Unix-like systems.
 * [adacontrol](https://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
@@ -496,12 +496,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Algorithms, Containers and Protocols
 
-* [ada-language-server](https://github.com/AdaCore/ada_language_server) ⭐ 288 | 🐛 58 | 🌐 Ada | 📅 2026-03-11 - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+* [ada-language-server](https://github.com/AdaCore/ada_language_server) ⭐ 289 | 🐛 58 | 🌐 Ada | 📅 2026-03-13 - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 * [pragmarc](https://github.com/jrcarter/PragmARC) ⭐ 36 | 🐛 0 | 🌐 Ada | 📅 2026-01-09 - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 * [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) ⭐ 34 | 🐛 1 | 🌐 Ada | 📅 2024-11-05 - Generic Ada Library for Algorithms and Containers.
 * [ada-id](https://github.com/anthony-arnold/AdaID) ⭐ 16 | 🐛 2 | 🌐 Ada | 📅 2021-12-08 - Simple Ada library for generating UUIDs.
 * [nb-ada](https://github.com/andgi/NBAda) ⭐ 13 | 🐛 0 | 🌐 Ada | 📅 2015-05-16 - NBAda : An Ada library of lock-free data structures and algorithms.
-* [ada-lsp](https://github.com/reznikmm/ada-lsp) ⭐ 11 | 🐛 0 | 🌐 Ada | 📅 2017-12-21 - Language Server Protocol for Ada.
+* [ada-lsp](https://github.com/reznikmm/ada-lsp) ⭐ 12 | 🐛 0 | 🌐 Ada | 📅 2017-12-21 - Language Server Protocol for Ada.
 * [ada-sodoku](https://github.com/frett27/Ada-Sodoku) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2023-08-06 - Small Library for Sodoku grid solving / finding.
 * [ada-ga](https://github.com/frett27/Ada-GA) ⭐ 2 | 🐛 0 | 🌐 Ada | 📅 2023-08-06 - Genetic Algorithm Implementation for Ada.
 * [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) ⭐ 2 | 🐛 0 | 🌐 Ada | 📅 2025-12-06 - Hungarian Algorithm implementation in Ada.
@@ -809,7 +809,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,765 | 🐛 363 | 🌐 VHDL | 📅 2026-03-10 - VHDL 2008/93/87 simulator.
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,766 | 🐛 363 | 🌐 VHDL | 📅 2026-03-12 - VHDL 2008/93/87 simulator.
 * [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 32 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 * [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) ⭐ 11 | 🐛 7 | 🌐 Ada | 📅 2020-10-29 - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 * [mars-mpl](https://github.com/Jellix/mars_mpl) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2020-10-20 - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl]).
