@@ -278,10 +278,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 * [alire](https://github.com/alire-project/alire) ⭐ 372 | 🐛 356 | 🌐 Ada | 📅 2026-03-17 - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 * [synth](https://github.com/jrmarino/synth) ⭐ 267 | 🐛 12 | 🌐 Ada | 📅 2026-02-14 - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
-* [gprbuild](https://github.com/AdaCore/gprbuild) ⭐ 78 | 🐛 38 | 🌐 Ada | 📅 2026-01-22 - Adacore multi-language software build tool.
+* [gprbuild](https://github.com/AdaCore/gprbuild) ⭐ 78 | 🐛 39 | 🌐 Ada | 📅 2026-03-27 - Adacore multi-language software build tool.
 * [aura](https://github.com/annexi-strayline/AURA) ⭐ 24 | 🐛 11 | 🌐 Ada | 📅 2025-07-16 - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
 * [ravenadm](https://github.com/jrmarino/ravenadm) ⭐ 21 | 🐛 11 | 🌐 Ada | 📅 2026-02-27 - Administration tool for Ravenports <http://www.ravenports.com>.
-* [tada](https://github.com/tomekw/tada) ⭐ 19 | 🐛 0 | 🌐 Ada | 📅 2026-03-26 - An opinionated package management tool for Ada.
+* [tada](https://github.com/tomekw/tada) ⭐ 19 | 🐛 0 | 🌐 Ada | 📅 2026-03-27 - An opinionated package management tool for Ada.
 * [alr2appimage](https://github.com/mgrojo/alr2appimage) ⭐ 13 | 🐛 0 | 🌐 Ada | 📅 2025-08-07 - A tool for automatically creating an AppImage executable from an Alire crate.
 * [cmake-ada-offa](https://github.com/offa/cmake-ada) ⭐ 12 | 🐛 1 | 📅 2014-11-12 - Ada language support for CMake.
 * [ada4cmake](https://github.com/mosteo/ada4cmake) ⭐ 5 | 🐛 0 | 🌐 CMake | 📅 2020-09-14 - CMake macros for simple gnat project inclusion.
@@ -322,7 +322,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 448 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 31,742 | 🐛 7 | 🌐 C | 📅 2026-03-26).
+* [eepers](https://github.com/tsoding/eepers) ⭐ 448 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 31,752 | 🐛 3 | 🌐 C | 📅 2026-03-27).
 * [steamsky](https://github.com/thindil/steamsky) ⭐ 101 | 🐛 2 | 🌐 Nim | 📅 2026-03-27 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 30 | 🐛 15 | 🌐 Ada | 📅 2026-03-27 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 23 | 🐛 0 | 🌐 Ada | 📅 2026-02-11 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
@@ -419,11 +419,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Unit Test, Testing
 
-* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 18 | 🐛 5 | 🌐 Ada | 📅 2026-03-26 - Simple tool to black box check the behavior of an executable through the command line.
+* [bbt](https://github.com/LionelDraghi/bbt) ⭐ 18 | 🐛 5 | 🌐 Ada | 📅 2026-03-28 - Simple tool to black box check the behavior of an executable through the command line.
 * [aunit](https://github.com/AdaCore/aunit) ⭐ 11 | 🐛 17 | 🌐 Ada | 📅 2026-03-26 - Ada unit testing framework.
 * [gnatbdd](https://github.com/briot/gnatbdd) ⭐ 7 | 🐛 2 | 🌐 Ada | 📅 2021-10-25 - Behavior Driven Development in Ada.
 * [scripted-testing](https://github.com/simonjwright/scripted_testing) ⭐ 2 | 🐛 0 | 🌐 Ada | 📅 2023-04-25 - Supports functional testing using Tcl scripts.
-* [testy](https://github.com/tomekw/testy) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2026-03-12 - Ada testing framework, part of [Tada](https://github.com/tomekw/tada) ⭐ 19 | 🐛 0 | 🌐 Ada | 📅 2026-03-26.
+* [testy](https://github.com/tomekw/testy) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2026-03-12 - Ada testing framework, part of [Tada](https://github.com/tomekw/tada) ⭐ 19 | 🐛 0 | 🌐 Ada | 📅 2026-03-27.
 * [ahven](http://ahven.stronglytyped.org/) - A simple unit test library and framework for the Ada programming.
   language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
@@ -453,7 +453,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Verification
 
-* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 298 | 🐛 4 | 🌐 Ada | 📅 2026-03-26 - SPARK formal verification toolset.
+* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 299 | 🐛 4 | 🌐 Ada | 📅 2026-03-27 - SPARK formal verification toolset.
 * [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 46 | 🐛 5 | 🌐 Ada | 📅 2026-03-25 - GNATcoverage is a tool to analyze and report program coverage.
 * [acats](https://github.com/simonjwright/ACATS) ⭐ 12 | 🐛 0 | 🌐 Ada | 📅 2024-08-01 - The Ada Conformity Assessment Test Suite, customised for GCC.
 * [acats-grading](https://github.com/simonjwright/ACATS-grading) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2024-05-17 - Tools for grading ACATS results, modified for Unix-like systems.
@@ -485,7 +485,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 * [math-packages](https://github.com/jscparker/math_packages) ⭐ 27 | 🐛 0 | 🌐 Ada | 📅 2022-10-31 - Collection of basic math routines in Ada.
 * [mathpaqs](https://github.com/zertovitch/mathpaqs) ⭐ 13 | 🐛 0 | 🌐 Ada | 📅 2026-02-06 - Collection of mathematical, 100% portable, packages in the Ada programming language.
-* [geo-energy-math](https://github.com/pukpr/GeoEnergyMath) ⭐ 8 | 🐛 2 | 🌐 Ada | 📅 2024-03-07 - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
+* [geo-energy-math](https://github.com/pukpr/GeoEnergyMath) ⭐ 8 | 🐛 2 | 🌐 Ada | 📅 2026-03-27 - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
 * [lalg](https://github.com/jhumphry/LALG) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2022-04-11 - Interface to dense linear algebra packages.
 * [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) ⭐ 2 | 🐛 0 | 🌐 Ada | 📅 2019-10-27 - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 * [hungarian](https://github.com/mosteo/hungarian) ⭐ 2 | 🐛 0 | 🌐 Ada | 📅 2018-06-10 - Ada binding to the fast Stachniss' Hungarian solver.
@@ -499,7 +499,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Algorithms, Containers and Protocols
 
-* [ada-language-server](https://github.com/AdaCore/ada_language_server) ⭐ 290 | 🐛 58 | 🌐 Ada | 📅 2026-03-26 - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+* [ada-language-server](https://github.com/AdaCore/ada_language_server) ⭐ 290 | 🐛 58 | 🌐 Ada | 📅 2026-03-27 - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 * [pragmarc](https://github.com/jrcarter/PragmARC) ⭐ 36 | 🐛 0 | 🌐 Ada | 📅 2026-01-09 - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 * [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) ⚠️ Archived - Generic Ada Library for Algorithms and Containers.
 * [ada-id](https://github.com/anthony-arnold/AdaID) ⭐ 16 | 🐛 2 | 🌐 Ada | 📅 2021-12-08 - Simple Ada library for generating UUIDs.
@@ -570,7 +570,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 
-* [libadalang](https://github.com/AdaCore/libadalang/) ⭐ 167 | 🐛 21 | 🌐 Ada | 📅 2026-03-20 - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+* [libadalang](https://github.com/AdaCore/libadalang/) ⭐ 167 | 🐛 21 | 🌐 Ada | 📅 2026-03-27 - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 * [aforth](https://github.com/samueltardieu/aforth) ⭐ 28 | 🐛 0 | 🌐 Ada | 📅 2015-09-20 - Embeddable Forth interpreter written in Ada.
 * [parse-args](https://github.com/jhumphry/parse_args) ⭐ 12 | 🐛 1 | 🌐 Ada | 📅 2022-04-03 - Simple command-line argument parsing.
 * [parser-tools](https://github.com/flyx/ParserTools) ⭐ 6 | 🐛 0 | 🌐 Ada | 📅 2018-02-16 - Tools for writing lexers / parsers in Ada.
@@ -600,7 +600,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 * [excel-writer](https://github.com/zertovitch/excel-writer) ⭐ 9 | 🐛 0 | 🌐 Ada | 📅 2026-03-26 - Create Excel files with basic formats.
 * [ada-midi](https://github.com/frett27/Ada-Midi) ⭐ 6 | 🐛 0 | 🌐 Ada | 📅 2023-08-16 - Implementation of Midi / MidiFile reading and writing.
 * [xml-ez-out](https://github.com/alire-project/xmlezout) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2020-12-17 - Library for emitting XML from Ada programs.
-* [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) ⭐ 0 | 🐛 0 | 🌐 Ada | 📅 2016-06-23 - Various binary-to-ASCII codecs such as Base64.
+* [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) ⭐ 1 | 🐛 1 | 🌐 Ada | 📅 2016-06-23 - Various binary-to-ASCII codecs such as Base64.
 * [abf-io](https://github.com/gerr135/abf_io) ⭐ 0 | 🐛 3 | 🌐 Ada | 📅 2018-10-30 - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 * [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 * [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
@@ -730,7 +730,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Frameworks
 
 * [SweetAda](https://github.com/gabriele-galeotti/SweetAda) ⭐ 50 | 🐛 0 | 🌐 Ada | 📅 2026-03-25 - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
-* [adamant](https://github.com/lasp/adamant) ⭐ 42 | 🐛 5 | 🌐 Ada | 📅 2026-03-23 - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+* [adamant](https://github.com/lasp/adamant) ⭐ 42 | 🐛 3 | 🌐 Ada | 📅 2026-03-27 - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 * [libgfxinit](https://github.com/coreboot/libgfxinit) ⭐ 26 | 🐛 0 | 🌐 Ada | 📅 2025-12-20 - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
 * [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) ⚠️ Archived - Robotics with Ada, ARM, and Lego.
 
@@ -802,7 +802,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Multimedia
 
 * [ada-3ds](https://github.com/AdaDoom3/Ada3DS) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2015-01-05 - A simple 3DS Max model renderer.
-* [blackvideo-mini-player](https://github.com/BlackBlazent/blackvideo-mini-player) ⭐ 2 | 🐛 12 | 🌐 Ada | 📅 2026-03-20 - A stand-alone lightweight auxiliary video player support for [`BlackVideo`](https://github.com/BlackBlazent/BlackVideo) ⭐ 1 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-26.
+* [blackvideo-mini-player](https://github.com/BlackBlazent/blackvideo-mini-player) ⭐ 2 | 🐛 12 | 🌐 Ada | 📅 2026-03-20 - A stand-alone lightweight auxiliary video player support for [`BlackVideo`](https://github.com/BlackBlazent/BlackVideo) ⭐ 1 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-27.
 * [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 
 ### Automation
@@ -813,8 +813,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,782 | 🐛 366 | 🌐 VHDL | 📅 2026-03-25 - VHDL 2008/93/87 simulator.
-* [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 32 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,781 | 🐛 365 | 🌐 VHDL | 📅 2026-03-27 - VHDL 2008/93/87 simulator.
+* [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 33 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 * [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) ⭐ 11 | 🐛 7 | 🌐 Ada | 📅 2020-10-29 - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 * [mars-mpl](https://github.com/Jellix/mars_mpl) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2020-10-20 - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl]).
 * [doppler-effect-sample2](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) ⭐ 2 | 🐛 1 | 🌐 Ada | 📅 2025-08-29 - Moving airplane causes Stereo Sound Doppler effect ([gtkada]).
