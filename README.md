@@ -322,8 +322,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 450 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 32,088 | 🐛 7 | 🌐 C | 📅 2026-04-17).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 2 | 🌐 Nim | 📅 2026-04-18 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 451 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 32,103 | 🐛 10 | 🌐 C | 📅 2026-04-18).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 2 | 🌐 Nim | 📅 2026-04-19 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 30 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 23 | 🐛 0 | 🌐 Ada | 📅 2026-02-11 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 * [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 21 | 🐛 1 | 🌐 Ada | 📅 2026-04-03 - Civilization-style turn-based strategy game. Requires [asfml].
@@ -332,11 +332,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 * [play-2048](https://github.com/mgrojo/play_2048) ⭐ 7 | 🐛 1 | 🌐 Ada | 📅 2025-08-08 - A clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
 * [rufas-cube](https://github.com/fastrgv/RufasCube) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2026-01-18 - RufasCube is a puzzle game for Windows, OS-X and GNU Linux (it looks like a rubic cube but it's a slider, not a twister).
 * [buttons](https://github.com/andreacervetti/buttons) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2019-05-28 - A simple [gtkada] Button Mania game.
+* [retro-arcade](https://github.com/fastrgv/RetroArcade) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2024-09-15 - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.
 * [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2026-02-07 - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
 * [mine-detector](https://github.com/jrcarter/Mine_Detector) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2025-06-20 - A mine-finding game that never requires guessing.
-* [gade-sdl](https://github.com/ellamosi/gade-sdl) ⭐ 4 | 🐛 1 | 🌐 Ada | 📅 2026-04-14 - An SDL2 Game Boy emulation front end for [Gade](https://github.com/ellamosi/gade) ⭐ 30 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 using [SDLAda](https://github.com/Lucretia/sdlada) ⭐ 129 | 🐛 24 | 🌐 Ada | 📅 2025-07-24.
+* [gade-sdl](https://github.com/ellamosi/gade-sdl) ⭐ 4 | 🐛 1 | 🌐 Ada | 📅 2026-04-14 - An SDL2 Game Boy emulation front end for [Gade](https://github.com/ellamosi/gade) ⭐ 30 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 using [SDLAda](https://github.com/Lucretia/sdlada) ⭐ 130 | 🐛 24 | 🌐 Ada | 📅 2025-07-24.
 * [tictactoe](https://github.com/AdaCore/tictactoe) ⚠️ Archived - A tictactoe game written and proven in SPARK/Ada.
-* [retro-arcade](https://github.com/fastrgv/RetroArcade) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2024-09-15 - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.
 * [unity-ada-tetris](https://blog.adacore.com/unity-ada) - Tetris, in Ada, for the Unity game engine.
 * [pasta](http://pasta.phyrama.com/) - A game of the "match-3" genre, implemented in [gnoga].
 
@@ -404,16 +404,16 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 <!--lint enable awesome-list-item-->
 
-* [awa](https://github.com/stcarrez/ada-awa) ⭐ 108 | 🐛 11 | 🌐 Ada | 📅 2026-04-05 - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+* [awa](https://github.com/stcarrez/ada-awa) ⭐ 108 | 🐛 10 | 🌐 Ada | 📅 2026-04-18 - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
   * [ada-security](https://github.com/stcarrez/ada-security) ⭐ 23 | 🐛 2 | 🌐 Ada | 📅 2026-03-01 - OAuth 2.0 client and server framework to secure web applications.
   * [ada-wiki](https://github.com/stcarrez/ada-wiki) ⭐ 20 | 🐛 4 | 🌐 Ada | 📅 2026-03-22 - Ada Wiki is a small library that provides a Wiki engine.
   * [dynamo](https://github.com/stcarrez/dynamo) ⭐ 17 | 🐛 5 | 🌐 Ada | 📅 2026-04-04 - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
-  * [ada-asf](https://github.com/stcarrez/ada-asf) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-04 - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
+  * [ada-asf](https://github.com/stcarrez/ada-asf) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2026-04-18 - Ada Server Faces allows to create web applications using the same pattern as the Java Server Faces (See JSR 252, JSR 314 and JSR 344).
   * [ada-el](https://github.com/stcarrez/ada-el) ⭐ 7 | 🐛 0 | 🌐 Ada | 📅 2025-11-10 - This library provides the support for a simple Expression Language close to the Java Unified Expression Language (EL).
-  * [ada-servlet](https://github.com/stcarrez/ada-servlet) ⭐ 7 | 🐛 2 | 🌐 Ada | 📅 2026-03-28 - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
+  * [ada-servlet](https://github.com/stcarrez/ada-servlet) ⭐ 7 | 🐛 2 | 🌐 Ada | 📅 2026-04-18 - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
 * [swagger-ada](https://github.com/stcarrez/swagger-ada) ⭐ 30 | 🐛 6 | 🌐 Ada | 📅 2025-11-10 - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 * [ews](https://github.com/simonjwright/ews) ⭐ 22 | 🐛 3 | 🌐 Ada | 📅 2022-08-19 - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
-* [matreshka](https://github.com/godunko/matreshka) ⭐ 11 | 🐛 3 | 🌐 Ada | 📅 2023-05-01 - Framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
+* [matreshka](https://github.com/godunko/matreshka) ⭐ 12 | 🐛 3 | 🌐 Ada | 📅 2023-05-01 - Framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 
 [matreshka]: https://github.com/godunko/matreshka
 
@@ -587,9 +587,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 * [ada-yaml](https://github.com/yaml/AdaYaml) ⚠️ Archived - Experimental YAML 1.3 implementation in Ada.
 * [json-ada](https://github.com/onox/json-ada) ⭐ 45 | 🐛 3 | 🌐 Ada | 📅 2024-07-28 - An Ada 2012 library for parsing JSON.
-* [protobuf](https://github.com/reznikmm/protobuf) ⭐ 44 | 🐛 10 | 🌐 Ada | 📅 2026-04-16 - A Google Protocol Buffers implementation in Ada, using [matreshka].
+* [protobuf](https://github.com/reznikmm/protobuf) ⭐ 44 | 🐛 10 | 🌐 Ada | 📅 2026-04-18 - A Google Protocol Buffers implementation in Ada, using [matreshka].
 * [ada-toml](https://github.com/pmderodat/ada-toml) ⭐ 37 | 🐛 2 | 🌐 Ada | 📅 2025-07-16 - TOML parser for Ada.
-* [xmlada](https://github.com/AdaCore/xmlada) ⭐ 28 | 🐛 8 | 🌐 Ada | 📅 2026-01-26 - The XML/Ada toolkit.
+* [xmlada](https://github.com/AdaCore/xmlada) ⭐ 29 | 🐛 8 | 🌐 Ada | 📅 2026-01-26 - The XML/Ada toolkit.
 * [generic-image-decoder](https://github.com/zertovitch/gid) ⭐ 27 | 🐛 0 | 🌐 Ada | 📅 2026-03-21 - Multi-format image decoder library for Ada.
 * [spark-xml](https://github.com/Componolit/SXML) ⚠️ Archived - A formally verified XML library in SPARK.
 * [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) ⭐ 24 | 🐛 0 | 🌐 Ada | 📅 2026-02-16 - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
@@ -637,9 +637,9 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Graphics and Multimedia
 
-* [sdlada](https://github.com/Lucretia/sdlada) ⭐ 129 | 🐛 24 | 🌐 Ada | 📅 2025-07-24 - Ada 2012 bindings to SDL 2.
+* [sdlada](https://github.com/Lucretia/sdlada) ⭐ 130 | 🐛 24 | 🌐 Ada | 📅 2025-07-24 - Ada 2012 bindings to SDL 2.
 * [opengl-ada](https://github.com/flyx/OpenGLAda) ⭐ 104 | 🐛 3 | 🌐 Ada | 📅 2022-09-08 - Thick Ada binding for OpenGL and GLFW.
-* [asfml](https://github.com/mgrojo/ASFML) ⭐ 40 | 🐛 2 | 🌐 Ada | 📅 2025-12-08 - Ada binding to the Simple and Fast Multimedia Library.
+* [asfml](https://github.com/mgrojo/ASFML) ⭐ 41 | 🐛 2 | 🌐 Ada | 📅 2025-12-08 - Ada binding to the Simple and Fast Multimedia Library.
 * [adagl](https://github.com/godunko/adagl) ⭐ 11 | 🐛 0 | 🌐 Ada | 📅 2024-12-28 - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WebAssembly/WebGL).
 * [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2016-01-29 - Ada bindings to NanoVG.
 * [free-type-ada](https://github.com/flyx/FreeTypeAda) ⭐ 1 | 🐛 0 | 🌐 Ada | 📅 2021-05-17 - FreeType binding for Ada 2005.
@@ -809,7 +809,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Automation
 
-* [acnc](https://github.com/Fabien-Chouteau/ACNC) ⭐ 65 | 🐛 0 | 🌐 Ada | 📅 2019-06-21 - A G-code parser and CNC controller (in Ada).
+* [acnc](https://github.com/Fabien-Chouteau/ACNC) ⭐ 65 | 🐛 1 | 🌐 Ada | 📅 2019-06-21 - A G-code parser and CNC controller (in Ada).
 * [max-home-automation](https://sourceforge.net/projects/max-home-automation/) - [gtkada] application to manage ELV/eQ-3 MAX! cubes for home automation.
 * [ada4automation](https://www.ada4automation.org/) - A framework for designing industrial automation applications using the Ada language.
 
