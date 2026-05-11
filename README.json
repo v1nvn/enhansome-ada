@@ -276,7 +276,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-04-27T01:54:15Z",
+            "last_commit": "2026-05-10T20:24:13Z",
             "owner": "Ravenports",
             "repo": "ravenadm",
             "stars": 21
@@ -478,7 +478,7 @@
             "last_commit": "2021-05-27T08:09:25Z",
             "owner": "wookey-project",
             "repo": "ewok-kernel",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -574,7 +574,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-05-10T02:59:38Z",
+            "last_commit": "2026-05-11T03:11:27Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -727,7 +727,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-04-29T23:12:48Z",
+            "last_commit": "2026-05-10T13:07:37Z",
             "owner": "HonkiTonk",
             "repo": "Honki-Tonks-Zivilisationen",
             "stars": 22
@@ -1303,7 +1303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-07T10:47:09Z",
+            "last_commit": "2026-05-11T00:13:04Z",
             "owner": "AdaCore",
             "repo": "spark2014",
             "stars": 306
@@ -1560,7 +1560,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-08T09:45:59Z",
+            "last_commit": "2026-05-11T00:55:51Z",
             "owner": "AdaCore",
             "repo": "ada_language_server",
             "stars": 294
@@ -1880,7 +1880,7 @@
             "last_commit": "2026-03-26T14:26:30Z",
             "owner": "rod-chapman",
             "repo": "SPARKNaCl",
-            "stars": 137
+            "stars": 136
           }
         },
         {
@@ -3280,7 +3280,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-09T14:49:54Z",
+            "last_commit": "2026-05-10T16:28:42Z",
             "owner": "gabriele-galeotti",
             "repo": "SweetAda",
             "stars": 51
@@ -3801,7 +3801,7 @@
             "last_commit": "2026-05-09T21:55:20Z",
             "owner": "ghdl",
             "repo": "ghdl",
-            "stars": 2807
+            "stars": 2808
           }
         },
         {
@@ -4116,7 +4116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:38:28.190Z",
+    "last_updated": "2026-05-11T06:00:24.456Z",
     "original_repository": "ohenley/awesome-ada",
     "source_repository": "v1nvn/enhansome-ada",
     "source_repository_description": null,
