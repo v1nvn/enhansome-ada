@@ -297,7 +297,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 * [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) ⭐ 79 | 🐛 7 | 🌐 Ada | 📅 2025-03-18 - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 * [adawebpack](https://github.com/godunko/adawebpack) ⭐ 78 | 🐛 4 | 🌐 Ada | 📅 2025-02-16 - GNAT RTL for WebAssembly and bindings for Web API.
-* [bb-runtimes](https://github.com/AdaCore/bb-runtimes) ⭐ 70 | 🐛 6 | 🌐 Ada | 📅 2026-05-11 - GNAT bare metal board support package (BSP).
+* [bb-runtimes](https://github.com/AdaCore/bb-runtimes) ⭐ 70 | 🐛 6 | 🌐 Ada | 📅 2026-05-13 - GNAT bare metal board support package (BSP).
 * [ada-runtime](https://github.com/Componolit/ada-runtime) ⚠️ Archived - A downsized Ada runtime which can be adapted to different platforms.
 * [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 
@@ -322,8 +322,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 455 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 32,910 | 🐛 16 | 🌐 C | 📅 2026-05-12).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 2 | 🌐 Nim | 📅 2026-05-13 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 455 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 32,923 | 🐛 16 | 🌐 C | 📅 2026-05-13).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 2 | 🌐 Nim | 📅 2026-05-14 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 23 | 🐛 0 | 🌐 Ada | 📅 2026-05-05 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 * [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 22 | 🐛 1 | 🌐 Ada | 📅 2026-05-10 - Civilization-style turn-based strategy game. Requires [asfml].
@@ -360,7 +360,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Graphical User Interface
 
-* [gtkada](https://github.com/AdaCore/gtkada) ⭐ 104 | 🐛 32 | 🌐 Ada | 📅 2026-05-11 - Ada graphical toolkit based on Gtk3 components.
+* [gtkada](https://github.com/AdaCore/gtkada) ⭐ 104 | 🐛 32 | 🌐 Ada | 📅 2026-05-13 - Ada graphical toolkit based on Gtk3 components.
 * [ada-gui](https://github.com/jrcarter/Ada_GUI) ⭐ 45 | 🐛 1 | 🌐 Ada | 📅 2025-06-20 - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 * [gwindows](https://github.com/zertovitch/gwindows) ⭐ 25 | 🐛 3 | 🌐 Ada | 📅 2026-05-09 - GNU Ada Visual Interface.
 * [imgui-ada](https://github.com/Cre8or/ImGui-Ada) ⭐ 6 | 🐛 2 | 🌐 C++ | 📅 2023-08-25 - Ada binding of the ImGui library.
@@ -400,11 +400,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 <!--lint disable awesome-spell-check-->
 
-* [aws](https://github.com/AdaCore/aws) ⭐ 156 | 🐛 37 | 🌐 Ada | 📅 2026-03-20 - Ada Web Server is a complete framework to develop Web based applications in Ada.
+* [aws](https://github.com/AdaCore/aws) ⭐ 156 | 🐛 37 | 🌐 Ada | 📅 2026-05-13 - Ada Web Server is a complete framework to develop Web based applications in Ada.
 
 <!--lint enable awesome-list-item-->
 
-* [awa](https://github.com/stcarrez/ada-awa) ⭐ 109 | 🐛 11 | 🌐 Ada | 📅 2026-05-11 - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+* [awa](https://github.com/stcarrez/ada-awa) ⭐ 109 | 🐛 12 | 🌐 Ada | 📅 2026-05-13 - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
   * [ada-security](https://github.com/stcarrez/ada-security) ⭐ 23 | 🐛 2 | 🌐 Ada | 📅 2026-05-11 - OAuth 2.0 client and server framework to secure web applications.
   * [ada-wiki](https://github.com/stcarrez/ada-wiki) ⭐ 20 | 🐛 4 | 🌐 Ada | 📅 2026-03-22 - Ada Wiki is a small library that provides a Wiki engine.
   * [dynamo](https://github.com/stcarrez/dynamo) ⭐ 18 | 🐛 5 | 🌐 Ada | 📅 2026-04-04 - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
@@ -453,7 +453,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Verification
 
-* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 306 | 🐛 4 | 🌐 Ada | 📅 2026-05-12 - SPARK formal verification toolset.
+* [spark-2014](https://github.com/AdaCore/spark2014/) ⭐ 306 | 🐛 4 | 🌐 Ada | 📅 2026-05-13 - SPARK formal verification toolset.
 * [gnat-coverage](https://github.com/AdaCore/gnatcoverage) ⭐ 46 | 🐛 5 | 🌐 Ada | 📅 2026-05-07 - GNATcoverage is a tool to analyze and report program coverage.
 * [acats](https://github.com/simonjwright/ACATS) ⭐ 12 | 🐛 0 | 🌐 Ada | 📅 2024-08-01 - The Ada Conformity Assessment Test Suite, customised for GCC.
 * [acats-grading](https://github.com/simonjwright/ACATS-grading) ⭐ 4 | 🐛 1 | 🌐 Shell | 📅 2024-05-17 - Tools for grading ACATS results, modified for Unix-like systems.
@@ -570,7 +570,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 
-* [libadalang](https://github.com/AdaCore/libadalang/) ⭐ 169 | 🐛 21 | 🌐 Ada | 📅 2026-05-12 - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+* [libadalang](https://github.com/AdaCore/libadalang/) ⭐ 170 | 🐛 21 | 🌐 Ada | 📅 2026-05-12 - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 * [aforth](https://github.com/samueltardieu/aforth) ⭐ 28 | 🐛 0 | 🌐 Ada | 📅 2015-09-20 - Embeddable Forth interpreter written in Ada.
 * [parse-args](https://github.com/jhumphry/parse_args) ⭐ 12 | 🐛 1 | 🌐 Ada | 📅 2022-04-03 - Simple command-line argument parsing.
 * [parser-tools](https://github.com/flyx/ParserTools) ⭐ 6 | 🐛 0 | 🌐 Ada | 📅 2018-02-16 - Tools for writing lexers / parsers in Ada.
@@ -684,7 +684,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Utilities
 
-* [ux-strings](https://github.com/Blady-Com/UXStrings) ⭐ 17 | 🐛 0 | 🌐 Ada | 📅 2025-09-04 - Unicode extended strings.
+* [ux-strings](https://github.com/Blady-Com/UXStrings) ⭐ 17 | 🐛 0 | 🌐 Ada | 📅 2026-05-13 - Unicode extended strings.
 * [auto-counters](https://github.com/jhumphry/auto_counters) ⭐ 9 | 🐛 1 | 🌐 Ada | 📅 2023-02-28 - Reference counting approaches to resource management.
 * [simple-logging](https://github.com/alire-project/simple_logging) ⭐ 5 | 🐛 1 | 🌐 Ada | 📅 2026-02-28 - Easy to use logging facilities for output to console in Ada programs.
 * [ada-bundler](https://github.com/flyx/ada-bundler) ⚠️ Archived - Library and tool for transparently handling data and configuration file access in an Ada application. Supports macOS, Linux and Windows.
@@ -731,7 +731,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Frameworks
 
-* [SweetAda](https://github.com/gabriele-galeotti/SweetAda) ⭐ 51 | 🐛 0 | 🌐 Ada | 📅 2026-05-12 - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
+* [SweetAda](https://github.com/gabriele-galeotti/SweetAda) ⭐ 51 | 🐛 0 | 🌐 Ada | 📅 2026-05-13 - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 * [adamant](https://github.com/lasp/adamant) ⭐ 46 | 🐛 3 | 🌐 Ada | 📅 2026-05-12 - A component-based, model-driven framework for constructing reliable and reusable real-time software.
 * [libgfxinit](https://github.com/coreboot/libgfxinit) ⭐ 26 | 🐛 0 | 🌐 Ada | 📅 2025-12-20 - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
 * [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) ⚠️ Archived - Robotics with Ada, ARM, and Lego.
@@ -742,7 +742,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Drivers
 
-* [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) ⭐ 279 | 🐛 22 | 🌐 Ada | 📅 2026-05-12 - Ada drivers for various MCU and sensors.
+* [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) ⭐ 279 | 🐛 21 | 🌐 Ada | 📅 2026-05-13 - Ada drivers for various MCU and sensors.
 * [dw1000](https://github.com/damaki/DW1000) ⭐ 14 | 🐛 1 | 🌐 Ada | 📅 2019-09-25 - Ada/SPARK driver for the DecaWave DW1000 ultra-wideband (UWB) radio chip.
 * [em-brick](https://github.com/it-cosmos/emBRICK) ⭐ 0 | 🐛 0 | 🌐 Ada | 📅 2016-04-25 - emBRICK driver and support for emBRICK in Ada.
 * [evb1000](https://github.com/damaki/EVB1000) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-08 - Ada/SPARK drivers to control the on-board peripherals of the DecaWave EVB1000 evaluation board.
@@ -759,7 +759,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Libraries
 
-* [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) ⭐ 35 | 🐛 7 | 🌐 Ada | 📅 2020-05-31 - Simple audio synthesis library that can run on bareboard devices.
+* [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) ⭐ 36 | 🐛 7 | 🌐 Ada | 📅 2020-05-31 - Simple audio synthesis library that can run on bareboard devices.
 * [geste](https://github.com/Fabien-Chouteau/GESTE) ⭐ 19 | 🐛 0 | 🌐 Ada | 📅 2020-01-29 - Sprite and tile 2D render engine designed to run on micro-controllers.
 * [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) ⭐ 18 | 🐛 0 | 🌐 Ada | 📅 2015-11-12 - Ada binding for the Pebble Time smartwatch.
 * [giza](https://github.com/Fabien-Chouteau/Giza) ⭐ 7 | 🐛 0 | 🌐 Ada | 📅 2017-04-22 - This library is trying to be a simple widget tool kit for embedded platforms.
@@ -815,7 +815,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,811 | 🐛 367 | 🌐 VHDL | 📅 2026-05-12 - VHDL 2008/93/87 simulator.
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,813 | 🐛 370 | 🌐 VHDL | 📅 2026-05-13 - VHDL 2008/93/87 simulator.
 * [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 33 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 * [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) ⭐ 11 | 🐛 7 | 🌐 Ada | 📅 2020-10-29 - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 * [mars-mpl](https://github.com/Jellix/mars_mpl) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2020-10-20 - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl]).
@@ -825,7 +825,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Generators and Translators
 
 * [pascal-to-ada](https://github.com/zertovitch/pascal-to-ada) ⭐ 18 | 🐛 0 | 🌐 Ada | 📅 2024-10-20 - A Pascal to Ada translator.
-  * [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2026-03-26 - Implementation of Turbo Pascal 7.0 units with [gnoga].
+  * [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2026-05-13 - Implementation of Turbo Pascal 7.0 units with [gnoga].
   * [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) ⭐ 3 | 🐛 0 | 🌐 Ada | 📅 2021-07-31 - Implementation of Turbo Pascal 7.0 units with [gtkada].
 * [cappulada](https://github.com/Componolit/Cappulada) ⚠️ Archived - Ada binding generator for C++.
 * [j2ada](https://github.com/Blady-Com/j2ada) ⭐ 4 | 🐛 0 | 🌐 Ada | 📅 2022-07-03 - Translator for a Java valid source code in Ada source code.
