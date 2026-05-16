@@ -276,11 +276,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Build and Package
 
-* [alire](https://github.com/alire-project/alire) ⭐ 385 | 🐛 358 | 🌐 Ada | 📅 2026-05-11 - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
+* [alire](https://github.com/alire-project/alire) ⭐ 386 | 🐛 360 | 🌐 Ada | 📅 2026-05-15 - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
 * [synth](https://github.com/jrmarino/synth) ⭐ 268 | 🐛 13 | 🌐 Ada | 📅 2026-02-14 - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 * [gprbuild](https://github.com/AdaCore/gprbuild) ⭐ 78 | 🐛 38 | 🌐 Ada | 📅 2026-03-31 - Adacore multi-language software build tool.
 * [aura](https://github.com/annexi-strayline/AURA) ⭐ 24 | 🐛 11 | 🌐 Ada | 📅 2025-07-16 - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
-* [ravenadm](https://github.com/jrmarino/ravenadm) ⭐ 21 | 🐛 13 | 🌐 Ada | 📅 2026-05-10 - Administration tool for Ravenports <http://www.ravenports.com>.
+* [ravenadm](https://github.com/jrmarino/ravenadm) ⭐ 21 | 🐛 13 | 🌐 Ada | 📅 2026-05-15 - Administration tool for Ravenports <http://www.ravenports.com>.
 * [tada](https://github.com/tomekw/tada) ⭐ 21 | 🐛 0 | 🌐 Ada | 📅 2026-05-09 - An opinionated package management tool for Ada.
 * [alr2appimage](https://github.com/mgrojo/alr2appimage) ⭐ 13 | 🐛 0 | 🌐 Ada | 📅 2025-08-07 - A tool for automatically creating an AppImage executable from an Alire crate.
 * [cmake-ada-offa](https://github.com/offa/cmake-ada) ⭐ 12 | 🐛 1 | 📅 2014-11-12 - Ada language support for CMake.
@@ -322,8 +322,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## Games
 
-* [eepers](https://github.com/tsoding/eepers) ⭐ 456 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 32,936 | 🐛 17 | 🌐 C | 📅 2026-05-14).
-* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 2 | 🌐 Nim | 📅 2026-05-15 - Roguelike in sky with a steampunk setting.
+* [eepers](https://github.com/tsoding/eepers) ⭐ 456 | 🐛 5 | 🌐 Ada | 📅 2024-05-26 - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib) ⭐ 32,947 | 🐛 17 | 🌐 C | 📅 2026-05-15).
+* [steamsky](https://github.com/thindil/steamsky) ⭐ 104 | 🐛 2 | 🌐 Nim | 📅 2026-05-16 - Roguelike in sky with a steampunk setting.
 * [gade](https://github.com/ellamosi/gade) ⭐ 32 | 🐛 14 | 🌐 Ada | 📅 2026-04-11 - A Game Boy emulation library in Ada.
 * [ada-gate](https://github.com/fastrgv/AdaGate) ⭐ 23 | 🐛 0 | 🌐 Ada | 📅 2026-05-05 - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.
 * [civ-klon](https://github.com/HonkiTonk/Civ-Klon) ⭐ 22 | 🐛 1 | 🌐 Ada | 📅 2026-05-10 - Civilization-style turn-based strategy game. Requires [asfml].
@@ -447,7 +447,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### DevOps
 
-* [septum](https://github.com/pyjarrett/septum) ⭐ 399 | 🐛 11 | 🌐 Ada | 📅 2026-05-13 - An interactive context-based text search tool for searching large codebases.
+* [septum](https://github.com/pyjarrett/septum) ⭐ 399 | 🐛 11 | 🌐 Ada | 📅 2026-05-16 - An interactive context-based text search tool for searching large codebases.
 * [powerjoular](https://github.com/joular/powerjoular) ⭐ 109 | 🐛 10 | 🌐 Ada | 📅 2026-02-13 - This tool allows monitoring power consumption of multiple platforms and processes.
 * [mat](https://github.com/stcarrez/mat) ⭐ 7 | 🐛 0 | 🌐 Ada | 📅 2025-11-11 - Simple memory analysis tool intended to help understand where the memory is used in a program.
 
@@ -499,7 +499,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Algorithms, Containers and Protocols
 
-* [ada-language-server](https://github.com/AdaCore/ada_language_server) ⭐ 294 | 🐛 59 | 🌐 Ada | 📅 2026-05-13 - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+* [ada-language-server](https://github.com/AdaCore/ada_language_server) ⭐ 294 | 🐛 59 | 🌐 Ada | 📅 2026-05-15 - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
 * [pragmarc](https://github.com/jrcarter/PragmARC) ⭐ 36 | 🐛 0 | 🌐 Ada | 📅 2026-01-09 - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 * [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) ⚠️ Archived - Generic Ada Library for Algorithms and Containers.
 * [ada-id](https://github.com/anthony-arnold/AdaID) ⭐ 16 | 🐛 2 | 🌐 Ada | 📅 2021-12-08 - Simple Ada library for generating UUIDs.
@@ -815,8 +815,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Simulation
 
-* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,814 | 🐛 370 | 🌐 VHDL | 📅 2026-05-14 - VHDL 2008/93/87 simulator.
-* [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 33 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
+* [ghdl](https://github.com/ghdl/ghdl) ⭐ 2,816 | 🐛 370 | 🌐 VHDL | 📅 2026-05-15 - VHDL 2008/93/87 simulator.
+* [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) ⭐ 34 | 🐛 1 | 🌐 Ada | 📅 2020-07-26 - Apollo 11 lunar lander simulator ([gtkada]/Cairo).
 * [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator) ⭐ 11 | 🐛 7 | 🌐 Ada | 📅 2020-10-29 - Multi engine/algorithms COVID-19 simulator. Ada, Qt code under the hood.
 * [mars-mpl](https://github.com/Jellix/mars_mpl) ⭐ 5 | 🐛 0 | 🌐 Ada | 📅 2020-10-20 - Mars Polar Lander (Crash) Simulator ([gtkada], [aicwl]).
 * [doppler-effect-sample2](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) ⭐ 2 | 🐛 1 | 🌐 Ada | 📅 2025-08-29 - Moving airplane causes Stereo Sound Doppler effect ([gtkada]).

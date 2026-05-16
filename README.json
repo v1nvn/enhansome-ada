@@ -224,10 +224,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-11T12:24:25Z",
+            "last_commit": "2026-05-15T12:28:43Z",
             "owner": "alire-project",
             "repo": "alire",
-            "stars": 385
+            "stars": 386
           }
         },
         {
@@ -276,7 +276,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-10T20:24:13Z",
+            "last_commit": "2026-05-15T11:56:44Z",
             "owner": "Ravenports",
             "repo": "ravenadm",
             "stars": 21
@@ -574,7 +574,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-05-15T03:14:39Z",
+            "last_commit": "2026-05-16T03:11:57Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -1240,7 +1240,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-13T01:02:57Z",
+            "last_commit": "2026-05-16T03:53:58Z",
             "owner": "pyjarrett",
             "repo": "septum",
             "stars": 399
@@ -1303,7 +1303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-15T00:13:36Z",
+            "last_commit": "2026-05-15T08:10:02Z",
             "owner": "AdaCore",
             "repo": "spark2014",
             "stars": 306
@@ -1560,7 +1560,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-13T00:55:53Z",
+            "last_commit": "2026-05-15T08:51:42Z",
             "owner": "AdaCore",
             "repo": "ada_language_server",
             "stars": 294
@@ -3788,7 +3788,7 @@
             "last_commit": "2020-07-26T16:56:40Z",
             "owner": "Fabien-Chouteau",
             "repo": "eagle-lander",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -3798,10 +3798,10 @@
           "repo_info": {
             "archived": false,
             "language": "VHDL",
-            "last_commit": "2026-05-14T16:23:20Z",
+            "last_commit": "2026-05-15T18:18:33Z",
             "owner": "ghdl",
             "repo": "ghdl",
-            "stars": 2814
+            "stars": 2816
           }
         },
         {
@@ -4116,7 +4116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:56:02.250Z",
+    "last_updated": "2026-05-16T05:28:33.044Z",
     "original_repository": "ohenley/awesome-ada",
     "source_repository": "v1nvn/enhansome-ada",
     "source_repository_description": null,
