@@ -341,7 +341,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-09T18:38:33Z",
+            "last_commit": "2026-05-16T15:03:19Z",
             "owner": "tomekw",
             "repo": "tada",
             "stars": 21
@@ -511,7 +511,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-07T23:41:31Z",
+            "last_commit": "2026-05-16T11:21:42Z",
             "owner": "ajxs",
             "repo": "straylight",
             "stars": 3
@@ -574,7 +574,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-05-16T03:11:57Z",
+            "last_commit": "2026-05-17T03:31:36Z",
             "owner": "thindil",
             "repo": "steamsky",
             "stars": 104
@@ -743,7 +743,7 @@
             "last_commit": "2024-05-26T15:22:30Z",
             "owner": "tsoding",
             "repo": "eepers",
-            "stars": 456
+            "stars": 457
           }
         },
         {
@@ -1240,7 +1240,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ada",
-            "last_commit": "2026-05-16T03:53:58Z",
+            "last_commit": "2026-05-17T03:41:23Z",
             "owner": "pyjarrett",
             "repo": "septum",
             "stars": 399
@@ -1306,7 +1306,7 @@
             "last_commit": "2026-05-15T08:10:02Z",
             "owner": "AdaCore",
             "repo": "spark2014",
-            "stars": 306
+            "stars": 308
           }
         },
         {
@@ -1563,7 +1563,7 @@
             "last_commit": "2026-05-15T08:51:42Z",
             "owner": "AdaCore",
             "repo": "ada_language_server",
-            "stars": 294
+            "stars": 295
           }
         },
         {
@@ -3341,7 +3341,7 @@
             "last_commit": "2026-05-13T12:02:27Z",
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -3798,10 +3798,10 @@
           "repo_info": {
             "archived": false,
             "language": "VHDL",
-            "last_commit": "2026-05-15T18:18:33Z",
+            "last_commit": "2026-05-16T13:40:12Z",
             "owner": "ghdl",
             "repo": "ghdl",
-            "stars": 2816
+            "stars": 2818
           }
         },
         {
@@ -4082,7 +4082,7 @@
             "last_commit": "2025-01-21T17:50:13Z",
             "owner": "mk270",
             "repo": "whitakers-words",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -4116,7 +4116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:28:33.044Z",
+    "last_updated": "2026-05-17T05:50:06.917Z",
     "original_repository": "ohenley/awesome-ada",
     "source_repository": "v1nvn/enhansome-ada",
     "source_repository_description": null,
